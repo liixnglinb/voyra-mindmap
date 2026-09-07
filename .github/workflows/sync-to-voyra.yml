@@ -30,7 +30,7 @@ jobs:
           cd voyra
           git config user.name "voyra-mindmap-sync[bot]"
           git config user.email "liixnglinb@users.noreply.github.com"
-          git add src/pages/MindMap.jsx voyra/src/components/MindMapFrame.jsx
+          git add src/pages/MindMap.jsx src/components/MindMapFrame.jsx
           if git diff --cached --quiet; then
             echo "无代码变更，跳过提交"
             exit 0
