@@ -1,0 +1,15 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "voyra-mindmap",
+    "license":  "MIT",
+    "description":  "AI Agent 鎬濈淮瀵煎浘 路 灏嗗涔犱笌鍒涗綔涓殑绾跨储灞曞紑涓哄彲缁х画琛ュ厖鐨勭粨鏋勶紙Voyra 妯″潡锛墊 Mind map",
+    "keywords":  [
+                     "mindmap",
+                     "mind-map",
+                     "ai",
+                     "agent",
+                     "react",
+                     "AI Agent 鎬濈淮瀵煎浘"
+                 ],
+    "private":  true
+}
