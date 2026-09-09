@@ -4,7 +4,7 @@
 
 **一张图看懂 AI Agent 的知识体系与学习路径 ｜ The AI Agent landscape as an explorable mind map**
 
-[![Sync to Voyra](https://github.com/liixnglinb/voyra-mindmap/actions/workflows/sync-to-voyra.yml/badge.svg)](https://github.com/liixnglinb/voyra-mindmap/actions/workflows/sync-to-voyra.yml)
+[![Sync to Voyra](https://github.com/liixnglinb/Voyra-mindmap/actions/workflows/sync-to-voyra.yml/badge.svg)](https://github.com/liixnglinb/Voyra-mindmap/actions/workflows/sync-to-voyra.yml)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![MindMap](https://img.shields.io/badge/Mind_Map-Interactive-A48830)
@@ -64,7 +64,7 @@ src/
 
 ```mermaid
 flowchart LR
-  A["本仓库<br/>voyra-mindmap"] -->|git push| B["GitHub Actions"]
+  A["本仓库<br/>Voyra-mindmap"] -->|git push| B["GitHub Actions"]
   B -->|同步页面与框架组件| C["Voyra 主仓库"]
   C -->|统一构建| D["Cloudflare Pages"]
   D --> E["lxlrwxs.top/#/mindmap"]
